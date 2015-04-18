@@ -1,6 +1,10 @@
 //Prueba
 //Prueba 2
 //Prueba 3
+<<<<<<< HEAD
 //Prueba 4
 //prueba 8
 //prueba 16
+=======
+//prueba 5
+>>>>>>> master
