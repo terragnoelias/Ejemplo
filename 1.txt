@@ -3,4 +3,8 @@
 //Prueba 3
 //prueba 5
 //prueba 17
+<<<<<<< HEAD
 //prueba 50
+=======
+//prueba 50
+>>>>>>> 40dd99559410865e247c87cec1461cb275d45c9f
